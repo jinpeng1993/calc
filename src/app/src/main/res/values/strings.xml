@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">代数计算器</string>
+    <string name="app_about">这是为了代码赌场而编译的一款支持代码化简运算的计算器\n
+        \n
+队名:今晚打老虎\n
+        \n
+队员:晋鹏 蒋亚飞 叶葛童 闻杰(按首字母排序)\n
+
+    </string>
+</resources>
